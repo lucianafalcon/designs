@@ -7,8 +7,10 @@ Archivos en **.FCStd**, PDFs opcionales para visualización.
   <img src="assets/img-components.png" alt="Componentes electrónicos">
 </p>
 
+---
+
 ## Components / Componentes
- Battery / Batería: [battery_design.FCStd](assets/models/battery_design.FCStd) 
+ - Battery / Batería: [battery_design.FCStd](assets/models/battery_design.FCStd) 
 - Battery Holder / Portabatería: [battery_holder_design.FCStd](assets/models/battery_holder_design.FCStd) 
 - Nut / Tuerca: [nut_design.FCStd](assets/models/nut_design.FCStd) 
 - Potentiometer / Potenciómetro: [potenciometer_design.FCStd](assets/models/potenciometer_design.FCStd) | [Datasheet](potenciometer_datasheet.png)  
